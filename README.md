@@ -1,7 +1,7 @@
 # Welcome BTCP Theater!
 비트캠프 | 첫번째 프로젝트 : 극장 영화 관리 시스템 만들기 <br>
-기술 언어 : only Java
-DB : MySQL
+기술 언어 : only Java <br>
+DB : MySQL <br>
 기술 환경 : 이클립스
 
 ## 기획
