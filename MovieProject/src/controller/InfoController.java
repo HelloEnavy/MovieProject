@@ -7,7 +7,7 @@ public class InfoController {
 	
 	public InfoController() {
 		list = new ArrayList<>();
-		nextId = 1;
+		nextId = 1; //seq 담당
 	}
 	
 	public void insert(InfoDTO i) {
